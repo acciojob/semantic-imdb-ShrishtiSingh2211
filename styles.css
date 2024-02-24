@@ -1,2 +1,6 @@
-
 /* Your CSS Code here. */
+body{
+	background-color:yellowgreen;
+	color:maroon;
+	font-size:20px;
+}
